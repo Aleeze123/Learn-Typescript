@@ -2,7 +2,7 @@
 //                                     Const-let
 // Variables (var, let, const)
 // Definition: Variables in TypeScript can be declared using var, let, or const.
-// - var: Function-scoped variable.
+// - var: Function-scoped variable or global scope.
 // - let: Block-scoped variable.
 // - const: Block-scoped variable that cannot be reassigned.
 // Syntax:
@@ -22,7 +22,7 @@
 //                   - var: Function-scoped variable.
 //                    - let: Block-scoped variable.
 //              - const: Block-scoped variable that cannot be reassigned.
-//                                    var funtion scope
+//                                    var funtion scope or global scope
 //                                         example 
 // const email =():void =>{
 //     var myEmail = "alizey649@gmail.com";
