@@ -1,8 +1,8 @@
 import greet from "./first.js"
 greet()
 
-import { names } from "./first.js"
-console.log(names);
+import { names as usernames} from "./first.js"
+console.log(usernames);
 
 
 import {add} from "./second.js"
