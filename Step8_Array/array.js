@@ -13,6 +13,11 @@
 // let array:string[]=[]
 // array.push("Aleeza", "Hoorain", "Hania", "Shahzain")
 // console.log(array);
+// Nested Array
+const multiArr = [1, 2, 3,4,[1, 2, 4, 6]]
+const names = ["Aleeze"]
+console.log(names[0]);
+console.log(multiArr[4], "Arrays");
 //                                        Methods of array
 // push()
 // This method pushes/adds one or more elements to the array at the last of an array.
