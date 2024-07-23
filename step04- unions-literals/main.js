@@ -25,3 +25,9 @@ console.log(userId.toUpperCase());
 // type RawData = boolean | number | string | null | undefined;
 // let data: RawData;
 // You can even combine them
+//-----------------------------------------------------------------------------
+   let x : any = "Aleeza"
+
+x =1710
+
+console.log(typeof x)//number
