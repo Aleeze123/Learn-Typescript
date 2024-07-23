@@ -28,7 +28,7 @@
 // }
 // else{
 //     console.log(user.toFixed());
-    
+
 // }
 // console.log(user);
 
@@ -39,8 +39,12 @@
 // let data: RawData;
 // You can even combine them
 
+//------------------------------------------------------------------------------------------------------------------------------------
+   let x : any = "Aleeza"
 
+x =1710
 
+console.log(typeof x)//number
 
 
 
