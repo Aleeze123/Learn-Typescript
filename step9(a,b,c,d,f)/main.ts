@@ -86,3 +86,11 @@
 // console.log(add(1, 2));
 // console.log(add("Hello", "World"));
 // console.log(add(true, false));
+
+// What are Callback Functions in TypeScript
+// A callback function is defined as a function passed into another function as an argument,
+//  which is then invoked inside the outer function to complete the desirable routine or action.
+
+// function outerFunction(callback: () => void) {
+//   callback();
+// }
